@@ -1,6 +1,5 @@
 ### Hi, I'm Isa! 👋
 
-- 🔭 I’m currently working on a chat app (BUZZ)
 - 🌱 I’m currently learning JavaScript, React Native, HTML and CSS
 
 <div align="center">

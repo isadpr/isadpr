@@ -1,6 +1,6 @@
 ### Hi, I'm Isa! 👋
 
-- 🌱 I’m currently learning JavaScript, React Native, HTML and CSS
+- 🌱 I’m currently learning Java, JavaScript, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/isadpr">

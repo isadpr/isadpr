@@ -1,6 +1,6 @@
 ### Hi, I'm Isa! 👋
 
-- 🌱 I’m currently learning Java, JavaScript, HTML and CSS
+- 🌱 I’m currently learning JavaSript
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
